@@ -1,7 +1,7 @@
 {
-  "name": "ReRe",
-  "description": "Reset Review for GitHub Pull Request",
-  "version": "1.0",
+  "name": "ReRe - Reset Review for GitHub Pull Request",
+  "description": "Clear All Viewed Files / Mark All Files Viewed",
+  "version": "1.0.0",
   "manifest_version": 3,
   "icons": {
     "16": "/images/icon-16.png",
